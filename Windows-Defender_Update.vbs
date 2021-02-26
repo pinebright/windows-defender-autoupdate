@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run """C:\Program Files\Windows Defender\MpCmdRun.exe"" -SignatureUpdate", vbHide
